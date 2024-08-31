@@ -3,9 +3,9 @@
 > + This Project was done as a part AI COE under the guidance of Dr Gnaneswari Assistant professor CMR Institutite of Technology
 > + You can view the project demo on [Youtube](https://www.youtube.com/watch?v=8eshmYSX06s)
 ## Table of Content
-+ [Tools and Technology](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#tools-and-technology)
++ [Tools and Technologies](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#tools-and-technology)
   
-# Tools and Technology
+## Tools and Technologies
 + Python
 + Tensorflow
 + Keras
