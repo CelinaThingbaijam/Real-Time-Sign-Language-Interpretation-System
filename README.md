@@ -4,7 +4,7 @@
 > You can view the project demo on [Youtude](https://www.youtube.com/watch?v=8eshmYSX06s)
 ## Table of Content
 
-#Tools and Technology
+# Tools and Technology
 + Python
 + Tensorflow
 + Keras
