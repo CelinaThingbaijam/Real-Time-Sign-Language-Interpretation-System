@@ -1,0 +1,10 @@
+streamlit
+gtts
+googletrans==4.0.0-rc1
+opencv-python-headless
+mediapipe
+numpy
+pandas
+Pillow
+keras
+tensorflow
