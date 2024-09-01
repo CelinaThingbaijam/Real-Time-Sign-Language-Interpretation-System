@@ -22,3 +22,7 @@
 + tkinter
 + gtts
 + googletrans
+
+## Flow Chart
+![image](https://github.com/user-attachments/assets/ddc20839-6ec7-4966-8b01-26a45237a548)
+)
