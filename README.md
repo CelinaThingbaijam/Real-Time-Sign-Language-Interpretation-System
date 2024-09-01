@@ -8,7 +8,7 @@
 + [Tools and Technologies](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#tools-and-technology)
 + [Process Flowchart](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#process-flowchart)
 + [Block Diagram](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#block-diagram)
-+ [Future Scope]()
++ [Future Scope](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#future-scope)
   
 ## Introduction
 > - Effective communication is crucial for social interaction, education, and work in today's connected world. But conventional communication techniques can be quite difficult for those who are deaf or hard of hearing, which can cause them to feel excluded and alone. 
