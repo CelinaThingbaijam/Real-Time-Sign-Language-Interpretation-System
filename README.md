@@ -1,6 +1,6 @@
 # Real Time Sign Language Interpretation System
 > A Sign Language Interpreter to Seamlessly transform sign language into English and many other regional languages in India(audio and visual) by collecting live data and training it using deep learning algorithms.
-> + This Project was done as a part AI COE under the guidance of `Dr Gnaneswari` Assistant professor CMR Institutite of Technology
+> + This Project was done as a part AI COE under the guidance of `Dr Gnaneswari #ffffff` Assistant professor CMR Institutite of Technology
 > + You can view the project demo on [Youtube](https://www.youtube.com/watch?v=8eshmYSX06s)
 ## Table of Content
 + [Introduction](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#introduction)
