@@ -6,6 +6,8 @@
 + [Introduction](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#introduction)
 + [Problem Statement](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#problem-statement)
 + [Tools and Technologies](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#tools-and-technology)
++ [Process Flowchart]()
++ [Block Diagram)()
   
 ## Introduction
 > - Effective communication is crucial for social interaction, education, and work in today's connected world. But conventional communication techniques can be quite difficult for those who are deaf or hard of hearing, which can cause them to feel excluded and alone. 
@@ -23,6 +25,10 @@
 + gtts
 + googletrans
 
-## Flow Chart
+## Process FlowChart
 ![image](https://github.com/user-attachments/assets/ddc20839-6ec7-4966-8b01-26a45237a548)
-)
+
+## Block Diagram
+![image](https://github.com/user-attachments/assets/48c13644-1ef9-4290-9b75-2afcc523e889)
+
+
