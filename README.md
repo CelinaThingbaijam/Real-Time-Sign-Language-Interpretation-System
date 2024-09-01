@@ -37,7 +37,7 @@
 > + Increase the vocabulary of our model
 > + Incorporate feedback mechanism to make the model more robust
 > + Add more sign languages
-> + Increase the regional Language Scope not only in India but many other contries
+> + Increase the regional Language Scope not only in India but also in many other countries
 > + Clearity of the Audio
 
 ## Contacts
