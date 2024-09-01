@@ -1,5 +1,5 @@
 # Real Time Sign Language Interpretation System
-> A Sign Language Interpreter to Seamlessly transport sign language into English and many other regional languages in India by collecting live data and training it using deep learning algorithms.
+> A Sign Language Interpreter to Seamlessly transform sign language into English and many other regional languages in India(audio and visual) by collecting live data and training it using deep learning algorithms.
 > + This Project was done as a part AI COE under the guidance of Dr Gnaneswari Assistant professor CMR Institutite of Technology
 > + You can view the project demo on [Youtube](https://www.youtube.com/watch?v=8eshmYSX06s)
 ## Table of Content
@@ -31,4 +31,11 @@
 ## Block Diagram
 ![image](https://github.com/user-attachments/assets/48c13644-1ef9-4290-9b75-2afcc523e889)
 
+## Future Scope
+> + Deploy the project on cloud and create an API for using it.
+> + Increase the vocabulary of our model
+> + Incorporate feedback mechanism to make the model more robust
+> + Add more sign languages
+> + Increase the regional Language Scope not only in INdia but many other contries
+> + Clearity of the Audio
 
