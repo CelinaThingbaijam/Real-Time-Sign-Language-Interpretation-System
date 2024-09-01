@@ -9,7 +9,7 @@
 + [Process Flowchart](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#process-flowchart)
 + [Block Diagram](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#block-diagram)
 + [Future Scope](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#future-scope)
-  
++ [Contacts]()  
 ## Introduction
 > - Effective communication is crucial for social interaction, education, and work in today's connected world. But conventional communication techniques can be quite difficult for those who are deaf or hard of hearing, which can cause them to feel excluded and alone. 
 > - In light of the significance of inclusive communication, we present the "Real-Time Sign Language Interpretation System." This novel method uses state-of-the-art technology to seamlessly translate sign language motions into spoken English and many other regional languages in India in real-time, bridging the communication gap between the hearing and deaf communities. 
@@ -40,3 +40,5 @@
 > + Increase the regional Language Scope not only in India but many other contries
 > + Clearity of the Audio
 
+## Contacts
+Created by me and my teammates [Sundaram Dutta Modak]( https://github.com/SDM-BQA),
