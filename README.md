@@ -4,7 +4,7 @@
 > + You can view the project demo on [Youtube](https://www.youtube.com/watch?v=8eshmYSX06s)
 ## Table of Content
 + [Introduction](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#introduction)
-+ [Problem Statement)[]
++ [Problem Statement](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#problem-statement)
 + [Tools and Technologies](https://github.com/CelinaThingbaijam/Real-Time-Sign-Language-Interpretation-System/blob/main/README.md#tools-and-technology)
   
 ## Introduction
